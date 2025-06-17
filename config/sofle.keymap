@@ -4,13 +4,14 @@
  * SPDX-License-Identifier: MIT
  */
 
+#include <keys_pt_abnt2.h>
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/backlight.h>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/ext_power.h>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/rgb.h>
-#include <keys_pt_abnt2.h>
+
 #define BASE 0
 #define LOWER 1
 #define RAISE 2
@@ -54,11 +55,6 @@
         grave_accent {
             bindings = <&kp GRAVE>;
             key-positions = <28 15>;
-        };
-
-        tilde {
-            bindings = <&kp TILDE>;
-            key-positions = <31 33>;
         };
     };
 

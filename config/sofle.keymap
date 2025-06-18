@@ -116,6 +116,36 @@
             bindings = <&kp PT_UNDERSCORE>;
             key-positions = <45 46>;
         };
+
+        left_parenthesis {
+            bindings = <&kp PT_LEFT_PARENTHESIS>;
+            key-positions = <16 15>;
+        };
+
+        right_parenthesis {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <17 16>;
+        };
+
+        left_bracket {
+            bindings = <&kp PT_LEFT_BRACKET>;
+            key-positions = <27 28>;
+        };
+
+        right_bracket {
+            bindings = <&kp PT_RIGHT_BRACKET>;
+            key-positions = <29 28>;
+        };
+
+        left_brace {
+            bindings = <&kp PT_LEFT_BRACE>;
+            key-positions = <39 40>;
+        };
+
+        right_brace {
+            bindings = <&kp PT_RIGHT_BRACE>;
+            key-positions = <41 40>;
+        };
     };
 
     behaviors {

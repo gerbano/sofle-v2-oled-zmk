@@ -49,7 +49,7 @@ layers:
   - M
   - ','
   - .
-  - /
+  - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD INTERNATIONAL1))
   - RIGHT CONTROL
   - LGUI
   - LALT

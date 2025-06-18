@@ -208,12 +208,12 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&soft_off'
   - RGB BRD
   - RGB BRI
   - ''
   - ''
-  - ''
+  - '&bl BL_TOG'
   - ''
   - ''
   - ''

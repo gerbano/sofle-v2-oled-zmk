@@ -54,10 +54,10 @@ layers:
   - LGUI
   - LALT
   - lower
-  - SPACE
   - BACKSPACE
-  - DELETE
+  - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD SPACEBAR))
   - ENTER
+  - DELETE
   - raise
   - RALT
   - RGUI

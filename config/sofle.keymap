@@ -104,17 +104,17 @@
 
         equal {
             bindings = <&kp PT_EQUAL>;
-            key-positions = <19 20>;
+            key-positions = <19 18>;
         };
 
         dash {
             bindings = <&kp PT_MINUS>;
-            key-positions = <31 32>;
+            key-positions = <31 30>;
         };
 
         underline {
             bindings = <&kp PT_UNDERSCORE>;
-            key-positions = <45 46>;
+            key-positions = <45 44>;
         };
 
         left_parenthesis {

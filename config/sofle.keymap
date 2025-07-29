@@ -146,6 +146,11 @@
             bindings = <&kp PT_RIGHT_BRACE>;
             key-positions = <41 40>;
         };
+
+        triple_backtick {
+            bindings = <&triple_backtick>;
+            key-positions = <29 16>;
+        };
     };
 
     behaviors {
@@ -157,6 +162,22 @@
             #binding-cells = <2>;
             tapping-term-ms = <180>;
             hold-trigger-key-positions = <39>;
+        };
+    };
+
+    macros {
+        triple_backtick: triple_backtick {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp GRAVE &kp GRAVE &kp GRAVE>;
+            label = "TRIPLE_BACKTICK";
+        };
+
+        new_macro: new_macro {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none>;
+            label = "NEW_MACRO";
         };
     };
 

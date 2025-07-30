@@ -147,9 +147,14 @@
             key-positions = <41 40>;
         };
 
-        triple_backtick {
+        triple_simple_quote {
             bindings = <&triple_simple_quote>;
             key-positions = <29 17>;
+        };
+
+        triple_backtick {
+            bindings = <&triple_backtick>;
+            key-positions = <29 16>;
         };
     };
 

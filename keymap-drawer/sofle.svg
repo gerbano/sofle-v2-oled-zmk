@@ -540,12 +540,12 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-23">
-<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
-<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
-</g>
-<g class="combo combopos-24">
 <rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
 <text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
+<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
 </g>
 </g>
@@ -964,12 +964,12 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-23">
-<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
-<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
-</g>
-<g class="combo combopos-24">
 <rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
 <text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
+<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
 </g>
 </g>
@@ -1377,12 +1377,12 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-23">
-<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
-<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
-</g>
-<g class="combo combopos-24">
 <rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
 <text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
+<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
 </g>
 </g>
@@ -1765,12 +1765,12 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-23">
-<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
-<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
-</g>
-<g class="combo combopos-24">
 <rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
 <text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
+<text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
 </g>
 </g>

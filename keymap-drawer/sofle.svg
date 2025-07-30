@@ -543,6 +543,10 @@ path.combo {
 <rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
 <text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
+<text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 398)" class="layer-lower">
@@ -963,6 +967,10 @@ path.combo {
 <rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
 <text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
+<text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 795)" class="layer-raise">
@@ -1372,6 +1380,10 @@ path.combo {
 <rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
 <text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
 </g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
+<text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1193)" class="layer-adjust">
@@ -1755,6 +1767,10 @@ path.combo {
 <g class="combo combopos-23">
 <rect rx="6" ry="6" x="294" y="113" width="28" height="26" class="combo"/>
 <text x="308" y="126" class="combo tap"><tspan style="font-size: 64%">&amp;triple_si…</tspan></text>
+</g>
+<g class="combo combopos-24">
+<rect rx="6" ry="6" x="266" y="110" width="28" height="26" class="combo"/>
+<text x="280" y="122" class="combo tap"><tspan style="font-size: 64%">&amp;triple_ba…</tspan></text>
 </g>
 </g>
 </g>

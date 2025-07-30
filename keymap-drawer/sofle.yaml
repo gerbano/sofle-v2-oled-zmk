@@ -293,3 +293,5 @@ combos:
   k: (LS(ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD BACKSLASH AND PIPE)))
 - p: [29, 17]
   k: '&triple_simple_quote'
+- p: [29, 16]
+  k: '&triple_backtick'

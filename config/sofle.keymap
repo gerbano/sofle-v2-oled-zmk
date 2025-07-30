@@ -147,14 +147,14 @@
             key-positions = <41 40>;
         };
 
-        triple_simple_quote {
-            bindings = <&triple_simple_quote_>;
-            key-positions = <29 17>;
-        };
-
-        triple_backtick {
+        triple_backtick_combo {
             bindings = <&triple_backtick_>;
             key-positions = <29 16>;
+        };
+
+        triple_simple_quote {
+            bindings = <&triple_simple_quote>;
+            key-positions = <17 29>;
         };
     };
 
@@ -171,18 +171,18 @@
     };
 
     macros {
-        triple_simple_quote_: triple_backtick {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <&kp GRAVE &kp GRAVE &kp GRAVE>;
-            label = "TRIPLE_BACKTICK";
-        };
-
         triple_backtick_: triple_backtick {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp PT_GRAVE &kp PT_GRAVE &kp PT_GRAVE>;
             label = "TRIPLE_BACKTICK";
+        };
+
+        triple_simple_quote: triple_simple_quote {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp GRAVE &kp GRAVE &kp GRAVE>;
+            label = "TRIPLE_SIMPLE_QUOTE";
         };
     };
 

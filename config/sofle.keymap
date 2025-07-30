@@ -148,8 +148,8 @@
         };
 
         triple_backtick {
-            bindings = <&triple_backtick>;
-            key-positions = <29 16>;
+            bindings = <&triple_simple_quote>;
+            key-positions = <29 17>;
         };
     };
 
@@ -166,18 +166,18 @@
     };
 
     macros {
-        triple_backtick: triple_backtick {
+        triple_simple_quote: triple_backtick {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp GRAVE &kp GRAVE &kp GRAVE>;
             label = "TRIPLE_BACKTICK";
         };
 
-        new_macro: new_macro {
+        triple_backtick: triple_backtick {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none>;
-            label = "NEW_MACRO";
+            bindings = <&kp PT_GRAVE &kp PT_GRAVE &kp PT_GRAVE>;
+            label = "TRIPLE_BACKTICK";
         };
     };
 

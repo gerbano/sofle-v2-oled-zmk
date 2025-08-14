@@ -123,7 +123,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
-  - {t: ▽, type: trans}
+  - PAUSE BREAK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MCLK'
@@ -184,7 +184,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
-  - BT CLR
+  - ''
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
@@ -195,7 +195,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - BT CLR
   - EP TOG
   - RGB HUD
   - RGB HUI

@@ -244,10 +244,10 @@
             //                |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&kp PAUSE_BREAK  &trans      &trans          &mkp MCLK       &trans           &trans                      &kp HOME   &kp INSERT  &kp PRINTSCREEN  &trans     &trans   &trans
-&trans           &trans      &mkp LCLK       &mmv MOVE_UP    &mkp RCLK        &trans                      &kp PG_UP  &trans      &kp UP           &trans     &trans   &trans
-&trans           &kp LALT    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &kp CLCK                    &kp PG_DN  &kp LEFT    &kp DOWN         &kp RIGHT  &kp DEL  &kp BSPC
-&trans           &kp K_UNDO  &kp K_CUT       &kp K_COPY      &kp K_PASTE      &trans    &trans    &to 3   &kp END    &trans      &trans           &trans     &trans   &trans
+&kp PAUSE_BREAK  &trans      &trans          &mkp MCLK       &trans           &trans                      &kp HOME   &kp INSERT  &kp PRINTSCREEN  &trans     &trans  &trans
+&trans           &trans      &mkp LCLK       &mmv MOVE_UP    &mkp RCLK        &trans                      &kp PG_UP  &trans      &kp UP           &trans     &trans  &trans
+&trans           &kp LALT    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &kp CLCK                    &kp PG_DN  &kp LEFT    &kp DOWN         &kp RIGHT  &trans  &trans
+&trans           &kp K_UNDO  &kp K_CUT       &kp K_COPY      &kp K_PASTE      &trans    &trans    &to 3   &kp END    &trans      &trans           &trans     &trans  &trans
                              &trans          &trans          &trans           &trans    &trans    &trans  &trans     &trans      &trans           &trans
             >;
 
